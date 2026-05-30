@@ -1,0 +1,6 @@
+--!strict
+--!native
+
+return {
+	Events = {},
+}
